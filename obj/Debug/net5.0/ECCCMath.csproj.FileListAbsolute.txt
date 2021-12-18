@@ -1,0 +1,12 @@
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\bin\Debug\net5.0\ECCCMath.deps.json
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\bin\Debug\net5.0\ECCCMath.dll
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\bin\Debug\net5.0\ref\ECCCMath.dll
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\bin\Debug\net5.0\ECCCMath.pdb
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\obj\Debug\net5.0\ECCCMath.csproj.AssemblyReference.cache
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\obj\Debug\net5.0\ECCCMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\obj\Debug\net5.0\ECCCMath.AssemblyInfoInputs.cache
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\obj\Debug\net5.0\ECCCMath.AssemblyInfo.cs
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\obj\Debug\net5.0\ECCCMath.csproj.CoreCompileInputs.cache
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\obj\Debug\net5.0\ECCCMath.dll
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\obj\Debug\net5.0\ref\ECCCMath.dll
+C:\Users\calco\Documents\Calcopod\Development\C#\Libraries\NeuralNetworks\ECCCMath\obj\Debug\net5.0\ECCCMath.pdb
